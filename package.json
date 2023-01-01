@@ -20,10 +20,10 @@
   },
   "devDependencies": {
     "@mdi/font": "^3.6.95",
-    "@vue/cli-service": "^3.7.0",
+    "@vue/cli-service": "^5.0.8",
     "material-design-icons-iconfont": "^4.0.5",
     "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.2",
+    "stylus-loader": "^7.1.0",
     "vue-template-compiler": "^2.5.21"
   },
   "postcss": {
